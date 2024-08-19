@@ -1,0 +1,33 @@
+img{
+    width: 200px;
+    height:200px ;
+    border-radius: 15px;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: white ;
+    background-color: burlywood;
+}
+
+table,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.Nama{
+    background-color:azure;
+}
+.NIS{
+    background-color: antiquewhite;
+}
+.Kelas{
+    background-color: bisque;
+}
+.Alamat{
+    background-color: blanchedalmond;
+}
+.Telepon{
+    background-color: cornsilk;
+}
+
